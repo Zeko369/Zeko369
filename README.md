@@ -5,6 +5,7 @@ I have 7+ years of backend/fullstack experience, most recently I've been enjoyin
 *I'm currently on the hunt for a new fullstack/backend opportunity. Ideally I'm looking for dx/tooling/platform project/company.*
 
 ### Cool repos I worked on to checkout:
+- [arc-sync](https://github.com/Zeko369/arc-sync) - my implementation of [Arc](https://arc.net/) mobile app that syncs with the desktop app via custom server
 - [todo_app](https://github.com/Zeko369/todo_app) - next/graphql/prisma
 - [chapter](https://github.com/freeCodeCamp/chapter) - next/graphql/prisma(was typeORM)
 - [auress_app](https://github.com/Zeko369/auress-app) - rn / expo
